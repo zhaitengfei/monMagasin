@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//WebContent/index.html=UTF-8
+encoding//src/mesCommandes/AfficherLesDisques.java=UTF-8
+encoding//src/mesCommandes/CommanderUnDisque.java=UTF-8
+encoding//src/mesCommandes/ConnexionClient.java=UTF-8
+encoding//src/mesCommandes/EnregistrerCommande.java=UTF-8
+encoding//src/mesCommandes/EntreeMagasinDisque.java=UTF-8
+encoding//src/mesCommandes/InscriptionClient.java=UTF-8
+encoding//src/mesCommandes/MonFiltre.java=UTF-8
+encoding//src/mesCommandes/Util.java=UTF-8
